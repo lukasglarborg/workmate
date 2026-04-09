@@ -68,8 +68,6 @@ Workmate is the free core. A **full starter kit** with 40 skills is available �
 
 → [Get the full Starter Kit](https://glarborg.gumroad.com/workmate)
 
-## Built by
+## Questions?
 
-**Lukas Glarborg** — not a developer, just someone who wanted AI to actually be useful. Built with Claude Code.
-
-Questions? Open an issue or reach out.
+Open an issue or start a discussion.
