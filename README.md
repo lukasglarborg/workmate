@@ -70,7 +70,7 @@ Workmate is the free core. A **full starter kit** with 40 skills is available �
 
 ## Who is this for?
 
-Anyone who wants to use AI to make their day easier — without being a tech expert. If you've been paying for Claude but feel like you're only scratching the surface, this is for you.
+Anyone who wants to get the most out of Claude — without being a tech expert. Workmate gives you a ready-made system that just works, so you can focus on your actual work.
 
 ## Questions?
 
