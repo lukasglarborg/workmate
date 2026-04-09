@@ -1,0 +1,10 @@
+{
+  "name": "workmate",
+  "description": "Your personal AI workmate. Morning briefings, session memory, and instant note capture — ready in 60 seconds. No setup, no code, just say hello.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lukas Glarborg"
+  },
+  "homepage": "https://github.com/lukasglarborg/workmate",
+  "license": "MIT"
+}
