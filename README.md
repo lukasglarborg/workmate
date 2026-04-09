@@ -47,7 +47,7 @@ You don't need to learn commands or remember keywords. Just talk normally:
 | "What were we working on?" | Summary of recent sessions |
 | "I'm done" / "Goodbye" / "Vi ses" | Session saved, everything logged |
 
-Works in **English** and **Danish** out of the box. Other languages adapt automatically during setup.
+**Works in any language.** Workmate adapts to you during setup — English, Danish, Spanish, German, whatever you speak. Just answer in your language and it follows.
 
 ## What's inside
 
