@@ -68,6 +68,10 @@ Workmate is the free core. A **full starter kit** with 40 skills is available �
 
 → [Get the full Starter Kit](https://glarborg.gumroad.com/workmate)
 
+## Who is this for?
+
+Anyone who wants to use AI to make their day easier — without being a tech expert. If you've been paying for Claude but feel like you're only scratching the surface, this is for you.
+
 ## Questions?
 
 Open an issue or start a discussion.
