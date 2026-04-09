@@ -70,6 +70,6 @@ Workmate is the free core. A **full starter kit** with 40 skills is available �
 
 ## Built by
 
-**Lukas Glarborg** — carpenter from Denmark who wanted a better way to work with AI. Built with Claude Code.
+**Lukas Glarborg** — not a developer, just someone who wanted AI to actually be useful. Built with Claude Code.
 
 Questions? Open an issue or reach out.
