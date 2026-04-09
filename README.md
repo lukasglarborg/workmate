@@ -66,7 +66,7 @@ workmate/
 
 Workmate is the free core. A **full starter kit** with 40 skills is available — including auto-organization, weekly reviews, research, budget planning, invoice generation, website building, and much more.
 
-→ [Get the full Starter Kit](https://glarborg.gumroad.com/workmate)
+→ [Get the full Starter Kit](https://glarborg.gumroad.com/l/workmate)
 
 ## Who is this for?
 
