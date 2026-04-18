@@ -1,6 +1,6 @@
 ---
 name: memory
-description: "Automatic context and memory management for workspace folders. Creates and maintains memory.md files in project folders so Claude always has context about what happened before. TRIGGERS: Use when Claude starts working in a project folder, when user mentions a specific project or folder, when user says 'what were we doing with X', 'status on X', 'what happened with X', or when finishing work in a project folder. Also use when user says 'remember this', 'save this context', or 'update memory'."
+description: "Automatic project context. Creates and maintains memory.md files inside each project folder so Claude always knows where a project stands. TRIGGERS: Use when Claude starts or finishes working in a project folder; when user mentions a specific project or folder by name; when user says 'what were we doing with [project]', 'status on [project]', 'what happened with [project]'; or when user says 'update project memory', 'save project context', 'remember this about [project/folder]'. DO NOT fire on: 'remember this about me/us' (that belongs to the `relationship` skill); bare 'note: ...' or 'capture: ...' prefixes (that belongs to the `quick-capture` skill). Memory is only for per-project context, not personal/relational memory and not free-form note taking."
 ---
 
 # Memory — Persistent Context for Projects
@@ -97,3 +97,4 @@ Brief and clear: "Updated memory for [folder]: added [X], marked [Y] as done."
 - If you're unsure whether something is worth remembering, err on the side of saving it
 - Always tell the user when you create or update a memory file
 - Memory files are a supplement to session logs, not a replacement. Session logs track everything by date. Memory files track everything by project.
+- **Personal and relational content belongs in `relation.md` — not here.** If the user shares something about themselves as a person (family, background, feelings, tone preferences, naming Claude), that's the `relationship` skill's turf. Project memory is for project status, tasks, and decisions only.

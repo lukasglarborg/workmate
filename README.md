@@ -59,12 +59,13 @@ workmate/
     ├── setup/          ← First-time onboarding (runs once)
     ├── daily-driver/   ← Morning briefings & session logging
     ├── memory/         ← Project memory across sessions
-    └── quick-capture/  ← Instant note-taking to Inbox
+    ├── quick-capture/  ← Instant note-taking to Inbox
+    └── relationship/   ← A living relation.md — Claude gets to know you over time
 ```
 
 ## Want more?
 
-Workmate is the free core. A **full starter kit** with 40 skills is available — including auto-organization, weekly reviews, research, budget planning, invoice generation, website building, and much more.
+Workmate is the free core. A **full starter kit** with 41 skills is available — including auto-organization, weekly reviews, research, budget planning, invoice generation, website building, and much more.
 
 → [Get the full Starter Kit](https://glarborg.gumroad.com/l/workmate)
 

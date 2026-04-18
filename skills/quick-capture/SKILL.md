@@ -1,6 +1,6 @@
 ---
 name: quick-capture
-description: "Instantly capture notes, ideas, links, and thoughts to the Inbox folder. Zero friction — just say it and it's saved. TRIGGERS: Use when user says 'note:', 'capture:', 'save this:', 'remember:', 'idea:', 'husk:', 'noter:', 'gem:', or any phrase that starts with a capture keyword followed by content. Also use when user says 'what's in my inbox', 'show inbox', 'clean up inbox', or 'organize inbox'."
+description: "Instantly capture notes, ideas, links, and thoughts to the Inbox folder. Zero friction — just say it and it's saved. TRIGGERS: Use when user says 'note:', 'capture:', 'save this:', 'remember:', 'idea:', 'husk:', 'noter:', 'gem:', or any phrase that starts with a capture keyword followed by content. Also use when user says 'what's in my inbox', 'show inbox', 'clean up inbox', or 'organize inbox'. DO NOT fire when the capture is about the user themselves — phrases like 'remember this about me', 'save this about me', 'write this down about us' belong to the `relationship` skill, not here. Quick-capture is for external notes (tasks, ideas, links, reminders), not personal/relational content about the user."
 ---
 
 # Quick Capture — Zero-Friction Note Taking

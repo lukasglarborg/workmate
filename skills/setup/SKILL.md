@@ -67,9 +67,9 @@ Keep it simple — max 6-8 top-level folders. Can always add more later.
 
 ## STEP 3: Create User Profile
 
-Save a profile file that other skills will use for context:
+Save a profile file that other skills will use for context. Cowork automatically reads this file at the start of every chat:
 
-**File:** `[Workspace]/profile.md`
+**File:** `./CLAUDE.md` (in the current Cowork project folder)
 
 ```markdown
 # User Profile
@@ -118,5 +118,5 @@ That's it. No manual needed. Just talk to me like a colleague."
 - Match the user's language and tone from their first answer
 - If the user seems impatient, skip to creating the structure with sensible defaults
 - NEVER overwrite existing workspace files — if a structure already exists, ask before changing anything
-- The profile.md file is the source of truth for all other skills
-- If the user has already been set up (profile.md exists), say so and offer to update instead
+- `./CLAUDE.md` is the source of truth for all other skills — Cowork reads it automatically at the start of every chat
+- If the user has already been set up (`./CLAUDE.md` exists and has user profile content), say so and offer to update instead — NEVER overwrite, always append/edit
